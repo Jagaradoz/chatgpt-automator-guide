@@ -34,7 +34,7 @@ Yes! In the settings menu, toggle on **Start Each Job in a New Conversation** if
 - **Solution**:
   1. Make sure your extension is updated to the latest release version.
   2. Refresh your ChatGPT browser tab (`Ctrl+R` or `Cmd+R`).
-  3. If the problem persists after an OpenAI website overhaul, check the [Issue Tracker](https://github.com/Jagaradoz/chatgpt-automator-guide/issues) for an update notice.
+  3. If the problem persists after an OpenAI website overhaul, submit a report via the in-app **Report an Issue** menu in the extension side panel.
 
 ### ❌ Issue: "3 Consecutive Failures – Queue Stopped"
 - **Cause**: The safety mechanism stopped the run to prevent wasting your queue.
@@ -51,5 +51,5 @@ Yes! In the settings menu, toggle on **Start Each Job in a New Conversation** if
 
 ---
 
-## Still have questions?
-Feel free to open an issue or ask in our [Discussions](https://github.com/Jagaradoz/chatgpt-automator-guide/issues)!
+## Still need help?
+Open the side panel menu in the extension and select **Report an Issue** to send your feedback directly to the developer.

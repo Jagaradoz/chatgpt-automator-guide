@@ -49,10 +49,9 @@ Explore the [`templates/`](templates/) folder for example batch files you can im
 
 ---
 
-## 🤝 Community & Support
+## 🤝 Contributing Templates
 
-- **Found a bug or selector issue?** Submit an issue via our [Bug Report Template](.github/ISSUE_TEMPLATE/bug_report.md).
-- **Want to share a prompt recipe?** Propose a template via [Pull Request](https://github.com/Jagaradoz/chatgpt-automator-guide/pulls) or open a [Template Request](.github/ISSUE_TEMPLATE/template_request.md).
+Have a great prompt workflow or custom batch template? Feel free to open a [Pull Request](https://github.com/Jagaradoz/chatgpt-automator-guide/pulls) to share your `.csv` or `.txt` templates with the community!
 
 ---
 
