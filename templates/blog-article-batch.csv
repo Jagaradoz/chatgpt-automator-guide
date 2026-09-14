@@ -1,0 +1,5 @@
+prompt,category,target_words
+"Write an engaging introduction for a tech article discussing the benefits of local AI automations over cloud APIs.",Productivity,250
+"List 5 actionable tips for developers looking to optimize Chrome extension performance in Manifest V3.",Web Development,300
+"Draft an outline comparing SQLite vs chrome.storage.local for storing offline browser state.",Architecture,200
+"Explain how DOM synthetic paste events bypass virtual DOM synchronization quirks in modern web apps.",Engineering,250

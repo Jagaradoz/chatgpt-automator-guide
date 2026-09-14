@@ -1,0 +1,4 @@
+prompt,task_type
+"Examine the attached image {{filename}}. Provide an e-commerce product description, list 3 key features, and generate 5 SEO keywords.",Product Description
+"Review the screenshot in {{filename}} and flag any accessibility, contrast, or UI alignment issues.",UI QA
+"Extract all text, prices, and date fields from the document in {{filename}} as a clean JSON object.",OCR Extraction
