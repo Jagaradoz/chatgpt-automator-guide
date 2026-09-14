@@ -1,4 +1,4 @@
-# 📖 ChatGPT Automator – Official User Guide & Prompt Cookbook
+# ChatGPT Automator Guide
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-ChatGPT%20Automator-blue.svg)](https://chrome.google.com/webstore)
