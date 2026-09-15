@@ -19,7 +19,7 @@ Find solutions to common issues when using **ChatGPT Automator**.
 | Optional **Pro** checkout / license | ExtensionPay and Stripe |
 | Optional **Report bugs** submission | Developer Google Apps Script endpoint (only if you submit) |
 
-There is no advertising tracker or analytics SDK in the extension. See the [Privacy Policy](https://github.com/Jagaradoz/chatgpt-automator/blob/master/PRIVACY_POLICY.md) in the main project for full detail.
+There is no advertising tracker or analytics SDK in the extension. See the [Privacy Policy](../PRIVACY_POLICY.md) for full detail.
 
 ### Q: What is Free vs Pro on the badge?
 **Free / Pro** refers to the **extension** license (optional one-time Pro unlock), not your ChatGPT subscription. Core queue features work on Free. Details: [Pro, Languages & Support](06-pro-languages-and-support.md).

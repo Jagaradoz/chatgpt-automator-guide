@@ -56,7 +56,7 @@ Explore the [`templates/`](templates/) folder for example batch files you can im
 - **On GitHub:** [Bug Report Template](.github/ISSUE_TEMPLATE/bug_report.md).
 - **Share a prompt recipe:** [Pull Request](https://github.com/Jagaradoz/chatgpt-automator-guide/pulls) or [Template Request](.github/ISSUE_TEMPLATE/template_request.md).
 
-Privacy details for ChatGPT, ExtensionPay, and optional bug reports: [Privacy Policy](https://github.com/Jagaradoz/chatgpt-automator/blob/master/PRIVACY_POLICY.md).
+Privacy details for ChatGPT, ExtensionPay, and optional bug reports: [Privacy Policy](PRIVACY_POLICY.md).
 
 ---
 
