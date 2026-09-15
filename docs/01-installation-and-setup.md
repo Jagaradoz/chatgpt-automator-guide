@@ -1,4 +1,4 @@
-# 🚀 Installation & Getting Started
+# Installation & Getting Started
 
 This guide explains how to install and set up **ChatGPT Automator** in Google Chrome.
 
@@ -8,9 +8,12 @@ This guide explains how to install and set up **ChatGPT Automator** in Google Ch
 
 ### Option A: From the Chrome Web Store (Recommended)
 
-1. Open the [ChatGPT Automator page on the Chrome Web Store](https://chrome.google.com/webstore).
+1. Open the ChatGPT Automator page on the [Chrome Web Store](https://chrome.google.com/webstore) (search for **ChatGPT Automator** if the direct listing link is not live yet).
 2. Click **Add to Chrome**.
 3. Confirm the prompt to grant permissions.
+
+> [!NOTE]
+> After the store listing is published, this guide will be updated with the permanent item URL.
 
 ### Option B: Load as Unpacked Extension (Developer / ZIP Release)
 
@@ -23,7 +26,7 @@ If you have downloaded a release `.zip` or built the project from source:
    ```
 3. In the top-right corner, turn on **Developer mode**.
 4. Click the **Load unpacked** button in the top-left corner.
-5. Select the unpacked extension folder (e.g. `dist/`).
+5. Select the unpacked extension folder (e.g. `dist/` or the unzipped package root).
 6. You should now see **ChatGPT Automator** active in your extension list.
 
 ---
@@ -36,6 +39,14 @@ If you have downloaded a release `.zip` or built the project from source:
 
 > [!TIP]
 > You can also right-click the extension icon and select **Open Side Panel**.
+
+### Header controls worth knowing
+
+- **Globe** — change UI language
+- **⋯ menu** — How to use, Settings, Report bugs (and version)
+- **Free / Pro badge** — license status and upgrade entry
+
+More detail: [Pro, Languages & Support](06-pro-languages-and-support.md).
 
 ---
 
@@ -55,3 +66,4 @@ To keep your automated runs safe and prevent accidental prompt submission to inc
 
 - Check out [Prompt Modes & Features](02-modes-and-features.md) to learn how to run text and image queues.
 - Read [Safe Pacing & Rate Limits](04-safe-pacing-and-limits.md) to configure delays properly before your first large batch.
+- Skim [Pro, Languages & Support](06-pro-languages-and-support.md) for languages, Pro, and bug reporting.

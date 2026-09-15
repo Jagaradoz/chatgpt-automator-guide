@@ -48,7 +48,10 @@ When working with both prompts and image attachments, you can choose how they pa
 - **Retry / Retry Failed**: Retries a single failed job or all failed jobs in one click.
 - **Session Persistence**: If you accidentally close the side panel or browser window, your queue progress, completed responses, and inputs are preserved in extension storage.
 
+Aspect ratio and delay live under **Options** on the main panel. Theme, language-adjacent preferences, and advanced toggles live under **⋯ → Settings**.
+
 ---
 
 ## Next Steps
 - Learn how to import batches using CSV, TXT, or JSON in [File Import & Dynamic Templating](03-file-import-and-templating.md).
+- For Free vs Pro, languages, and reporting issues, see [Pro, Languages & Support](06-pro-languages-and-support.md).

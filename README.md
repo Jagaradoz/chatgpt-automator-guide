@@ -10,19 +10,20 @@ ChatGPT Automator is a Manifest V3 Chrome extension that runs an automated seque
 
 ---
 
-## 📚 Documentation Index
+## Documentation Index
 
 | Guide | Description |
 |---|---|
-| [🚀 Installation & Setup](docs/01-installation-and-setup.md) | How to install from Chrome Web Store or load unpacked ZIP, open the side panel, and pin tabs. |
-| [🎯 Prompt Modes & Features](docs/02-modes-and-features.md) | In-depth guide to Text, Text-to-Image, Image-to-Image, and Image-to-Text vision modes. |
-| [📁 File Import & Dynamic Templating](docs/03-file-import-and-templating.md) | Formatting CSV, TXT, JSON, and MD batches; injecting `{{filename}}`, `{{basename}}`, and `{{index}}`. |
-| [⏱️ Safe Pacing & Rate Limits](docs/04-safe-pacing-and-limits.md) | Natural pacing settings, anti-rate-limit tips, and the automatic 3-failure safety stop. |
-| [❓ Troubleshooting & FAQ](docs/05-troubleshooting-and-faq.md) | Fixes for tab disconnects, page reload handling, stop vs. pause behavior, and export formatting. |
+| [Installation & Setup](docs/01-installation-and-setup.md) | Install from Chrome Web Store or load unpacked ZIP, open the side panel, and pin tabs. |
+| [Prompt Modes & Features](docs/02-modes-and-features.md) | Text, Text-to-Image, Image-to-Image, and Image-to-Text vision modes. |
+| [File Import & Dynamic Templating](docs/03-file-import-and-templating.md) | CSV, TXT, JSON, and MD batches; `{{filename}}`, `{{basename}}`, and `{{index}}`. |
+| [Safe Pacing & Rate Limits](docs/04-safe-pacing-and-limits.md) | Natural pacing, anti-rate-limit tips, and the automatic 3-failure safety stop. |
+| [Troubleshooting & FAQ](docs/05-troubleshooting-and-faq.md) | Tab disconnects, privacy, Pro badge, exports, and common failures. |
+| [Pro, Languages & Support](docs/06-pro-languages-and-support.md) | Free vs Pro, UI languages, in-app How to use, and Report bugs. |
 
 ---
 
-## ⚡ Recommended Pacing Quick Reference
+## Recommended Pacing Quick Reference
 
 Because ChatGPT Automator runs prompts through your interactive web session, pacing your requests with natural pauses keeps your session active and helps avoid temporary web cooldowns:
 
@@ -39,7 +40,7 @@ Because ChatGPT Automator runs prompts through your interactive web session, pac
 
 ---
 
-## 📁 Ready-to-Use Templates
+## Ready-to-Use Templates
 
 Explore the [`templates/`](templates/) folder for example batch files you can import directly into the extension:
 
@@ -49,13 +50,16 @@ Explore the [`templates/`](templates/) folder for example batch files you can im
 
 ---
 
-## 🤝 Community & Support
+## Community & Support
 
-- **Found a bug or selector issue?** Submit an issue via our [Bug Report Template](.github/ISSUE_TEMPLATE/bug_report.md).
-- **Want to share a prompt recipe?** Propose a template via [Pull Request](https://github.com/Jagaradoz/chatgpt-automator-guide/pulls) or open a [Template Request](.github/ISSUE_TEMPLATE/template_request.md).
+- **In the extension:** open **⋯ → Report bugs** (description required; email optional).
+- **On GitHub:** [Bug Report Template](.github/ISSUE_TEMPLATE/bug_report.md).
+- **Share a prompt recipe:** [Pull Request](https://github.com/Jagaradoz/chatgpt-automator-guide/pulls) or [Template Request](.github/ISSUE_TEMPLATE/template_request.md).
+
+Privacy details for ChatGPT, ExtensionPay, and optional bug reports: [Privacy Policy](https://github.com/Jagaradoz/chatgpt-automator/blob/master/PRIVACY_POLICY.md).
 
 ---
 
-## ⚖️ Disclaimer
+## Disclaimer
 
 *ChatGPT Automator is an independent tool and is not affiliated with, maintained by, or endorsed by OpenAI. Use responsibly and adhere to OpenAI's Terms of Use.*
